@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Asmabeauty – Tableau de bord",
   description: "Ventes, dépenses & KPI",
